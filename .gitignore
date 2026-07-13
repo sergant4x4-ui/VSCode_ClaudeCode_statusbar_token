@@ -1,0 +1,4 @@
+*.vsix
+claude-token-statusbar-share/
+claude-token-statusbar-share.zip
+node_modules/

@@ -1,0 +1,16 @@
+{
+  "name": "claude-token-statusbar",
+  "displayName": "Claude Token Status",
+  "description": "Показывает расход токенов Claude Code в статус-баре VS Code",
+  "version": "0.0.1",
+  "publisher": "local-dev",
+  "author": "ClaudeCode + Evpatiy",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": ["Other"],
+  "activationEvents": ["onStartupFinished"],
+  "main": "./extension.js",
+  "contributes": {}
+}

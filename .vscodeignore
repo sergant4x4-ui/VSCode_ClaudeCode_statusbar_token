@@ -1,0 +1,6 @@
+claude-token-statusbar-share/**
+claude-token-statusbar-share.zip
+.vscodeignore
+.gitignore
+.git/**
+*.vsix
