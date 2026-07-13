@@ -6,7 +6,11 @@
 
 Пример: `$(pulse) 48.2k/200k tok (24%)`
 
-Наведите курсор на индикатор, чтобы увидеть разбивку: input / output / cache write / cache read.
+Наведите курсор на индикатор, чтобы увидеть разбивку: input / output / cache write / cache read.  
+
+Скриншот:
+
+<img width="174" height="48" alt="2026-07-14_00-05-47" src="https://github.com/user-attachments/assets/f40bd18e-cda9-4ed6-af92-9dc014a97667" />
 
 ## Что это НЕ показывает
 
